@@ -1,0 +1,394 @@
+[
+  {
+    "course": "SC2001",
+    "data": [
+      {
+        "type": "Tut",
+        "day": "Wed",
+        "time": "1430to1520",
+        "venue": "TR+29"
+      },
+      {
+        "type": "Tut",
+        "day": "Fri",
+        "time": "1330to1420",
+        "venue": "TR+4"
+      },
+      {
+        "type": "Tut",
+        "day": "Thu",
+        "time": "1430to1520",
+        "venue": "TR+15"
+      },
+      {
+        "type": "Tut",
+        "day": "Tue",
+        "time": "1630to1720",
+        "venue": "TR+17"
+      },
+      {
+        "type": "Tut",
+        "day": "Wed",
+        "time": "1130to1220",
+        "venue": "TR+31"
+      },
+      {
+        "type": "Tut",
+        "day": "Wed",
+        "time": "1630to1720",
+        "venue": "TR+37"
+      },
+      {
+        "type": "Tut",
+        "day": "Tue",
+        "time": "1530to1620",
+        "venue": "TR+15"
+      },
+      {
+        "type": "Tut",
+        "day": "Tue",
+        "time": "1430to1520",
+        "venue": "TR+21"
+      },
+      {
+        "type": "Tut",
+        "day": "Fri",
+        "time": "1330to1420",
+        "venue": "TR+32"
+      },
+      {
+        "type": "Tut",
+        "day": "Thu",
+        "time": "1430to1520",
+        "venue": "TR+16"
+      },
+      {
+        "type": "Tut",
+        "day": "Wed",
+        "time": "1130to1220",
+        "venue": "TR+22"
+      },
+      {
+        "type": "Tut",
+        "day": "Fri",
+        "time": "1730to1820",
+        "venue": "LHN-TR+18"
+      },
+      {
+        "type": "Tut",
+        "day": "Wed",
+        "time": "1630to1720",
+        "venue": "TR+17"
+      },
+      {
+        "type": "Tut",
+        "day": "Fri",
+        "time": "1030to1120",
+        "venue": "TR+34"
+      },
+      {
+        "type": "Tut",
+        "day": "Wed",
+        "time": "1730to1820",
+        "venue": "TR+37"
+      },
+      {
+        "type": "Tut",
+        "day": "Tue",
+        "time": "1330to1420",
+        "venue": "TR+19"
+      },
+      {
+        "type": "Tut",
+        "day": "Fri",
+        "time": "1730to1820",
+        "venue": "TR+22"
+      },
+      {
+        "type": "Tut",
+        "day": "Tue",
+        "time": "1030to1120",
+        "venue": "TR+23"
+      },
+      {
+        "type": "Tut",
+        "day": "Wed",
+        "time": "1330to1420",
+        "venue": "TR+21"
+      },
+      {
+        "type": "Tut",
+        "day": "Mon",
+        "time": "1030to1120",
+        "venue": "TR+5"
+      },
+      {
+        "type": "Tut",
+        "day": "Fri",
+        "time": "1030to1120",
+        "venue": "TR+22"
+      },
+      {
+        "type": "Tut",
+        "day": "Mon",
+        "time": "1430to1520",
+        "venue": "TR+17"
+      },
+      {
+        "type": "Tut",
+        "day": "Tue",
+        "time": "1030to1120",
+        "venue": "TR+15"
+      },
+      {
+        "type": "Tut",
+        "day": "Mon",
+        "time": "1630to1720",
+        "venue": "TR+18"
+      },
+      {
+        "type": "Tut",
+        "day": "Tue",
+        "time": "1130to1220",
+        "venue": "TR+19"
+      },
+      {
+        "type": "Tut",
+        "day": "Mon",
+        "time": "1130to1220",
+        "venue": "TR+19"
+      }
+    ]
+  },
+  {
+    "course": "SC2002",
+    "data": [
+      {
+        "type": "Tut",
+        "day": "Fri",
+        "time": "1030to1120",
+        "venue": "TR+20"
+      },
+      {
+        "type": "Tut",
+        "day": "Mon",
+        "time": "1130to1220",
+        "venue": "TR+17"
+      },
+      {
+        "type": "Tut",
+        "day": "Fri",
+        "time": "1030to1120",
+        "venue": "TR+31"
+      },
+      {
+        "type": "Tut",
+        "day": "Tue",
+        "time": "1530to1620",
+        "venue": "TR+20"
+      },
+      {
+        "type": "Tut",
+        "day": "Fri",
+        "time": "1730to1820",
+        "venue": "TR+17"
+      },
+      {
+        "type": "Tut",
+        "day": "Mon",
+        "time": "1130to1220",
+        "venue": "TR+18"
+      },
+      {
+        "type": "Tut",
+        "day": "Thu",
+        "time": "1230to1320",
+        "venue": "TR+16"
+      },
+      {
+        "type": "Tut",
+        "day": "Wed",
+        "time": "1030to1120",
+        "venue": "TR+21"
+      },
+      {
+        "type": "Tut",
+        "day": "Tue",
+        "time": "1630to1720",
+        "venue": "TR+20"
+      },
+      {
+        "type": "Tut",
+        "day": "Tue",
+        "time": "1430to1520",
+        "venue": "TR+20"
+      },
+      {
+        "type": "Tut",
+        "day": "Wed",
+        "time": "1730to1820",
+        "venue": "TR+17"
+      },
+      {
+        "type": "Tut",
+        "day": "Fri",
+        "time": "1230to1320",
+        "venue": "TR+19"
+      },
+      {
+        "type": "Tut",
+        "day": "Wed",
+        "time": "1330to1420",
+        "venue": "TR+31"
+      },
+      {
+        "type": "Tut",
+        "day": "Tue",
+        "time": "1730to1820",
+        "venue": "TR+20"
+      },
+      {
+        "type": "Tut",
+        "day": "Thu",
+        "time": "1130to1220",
+        "venue": "TR+15"
+      },
+      {
+        "type": "Tut",
+        "day": "Wed",
+        "time": "1130to1220",
+        "venue": "TR+21"
+      },
+      {
+        "type": "Tut",
+        "day": "Wed",
+        "time": "1730to1820",
+        "venue": "TR+9"
+      },
+      {
+        "type": "Tut",
+        "day": "Wed",
+        "time": "1430to1520",
+        "venue": "TR+31"
+      },
+      {
+        "type": "Tut",
+        "day": "Fri",
+        "time": "1730to1820",
+        "venue": "TR+16"
+      },
+      {
+        "type": "Tut",
+        "day": "Wed",
+        "time": "1430to1520",
+        "venue": "TR+18"
+      },
+      {
+        "type": "Tut",
+        "day": "Thu",
+        "time": "1430to1520",
+        "venue": "TR+19"
+      },
+      {
+        "type": "Tut",
+        "day": "Mon",
+        "time": "1630to1720",
+        "venue": "TR+7"
+      }
+    ]
+  },
+  {
+    "course": "SC2104",
+    "data": [
+      {
+        "type": "Tut",
+        "day": "Thu",
+        "time": "1130to1220",
+        "venue": "TR+7"
+      },
+      {
+        "type": "Tut",
+        "day": "Mon",
+        "time": "1530to1620",
+        "venue": "LHN-TR+01"
+      },
+      {
+        "type": "Tut",
+        "day": "Mon",
+        "time": "0930to1020",
+        "venue": "TR+17"
+      },
+      {
+        "type": "Tut",
+        "day": "Wed",
+        "time": "1130to1220",
+        "venue": "TR+15"
+      },
+      {
+        "type": "Tut",
+        "day": "Wed",
+        "time": "1330to1420",
+        "venue": "TR+16"
+      },
+      {
+        "type": "Tut",
+        "day": "Wed",
+        "time": "0830to0920",
+        "venue": "TR+33"
+      },
+      {
+        "type": "Tut",
+        "day": "Mon",
+        "time": "1130to1220",
+        "venue": "TR+20"
+      }
+    ]
+  },
+  {
+    "course": "SC2107",
+    "data": [
+      {
+        "type": "Tut",
+        "day": "Wed",
+        "time": "1630to1720",
+        "venue": "TR+8"
+      },
+      {
+        "type": "Tut",
+        "day": "Fri",
+        "time": "1030to1120",
+        "venue": "LHN-TR+01"
+      },
+      {
+        "type": "Tut",
+        "day": "Tue",
+        "time": "1030to1120",
+        "venue": "TR+6"
+      },
+      {
+        "type": "Tut",
+        "day": "Wed",
+        "time": "1630to1720",
+        "venue": "TR+33"
+      },
+      {
+        "type": "Tut",
+        "day": "Fri",
+        "time": "1230to1320",
+        "venue": "TR+4"
+      },
+      {
+        "type": "Tut",
+        "day": "Mon",
+        "time": "1530to1620",
+        "venue": "TR+18"
+      },
+      {
+        "type": "Tut",
+        "day": "Wed",
+        "time": "1230to1320",
+        "venue": "TR+9"
+      }
+    ]
+  }
+]
